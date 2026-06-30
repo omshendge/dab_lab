@@ -3,7 +3,7 @@ bundle:
   name: etl_pipeline_lab
 
 workspace:
-  host: https://adb-7405604756786114.14.azuredatabricks.net/?o=7405604756786114/
+  host: https://adb-7405604756786114.14.azuredatabricks.net/
 
 resources:
   jobs:
